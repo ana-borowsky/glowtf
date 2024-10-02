@@ -4,6 +4,11 @@ Não é uma maneira com a qual os sites sejam construídos hoje em dia, por dive
 
 <p align="center">
 <img width="600" src="src/assets/to_readme/animation_0.gif">
+<img width="600" src="src/assets/to_readme/home.png">
+<img width="600" src="src/assets/to_readme/home2.png">
+<img width="600" src="src/assets/to_readme/carrinho.png">
+<img width="600" src="src/assets/to_readme/produto.png">
+
 </p>
 
 ## Conteúdo
