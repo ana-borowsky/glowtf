@@ -28,3 +28,6 @@ Não é uma maneira com a qual os sites sejam construídos hoje em dia, por dive
 
 ## Ferramentas
 HTML, CSS, PHP, JavaScript, MySQL, Xampp
+
+## Execução do Projeto
+Os arquivos necessários para executar o projeto estão localizados em "Projeto Web/glowtf". Certifique-se de criar o banco de dados no MySQL; as queries para isso podem ser encontradas na mesma pasta, dentro de "Projeto Web/database".
