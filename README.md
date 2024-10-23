@@ -35,13 +35,13 @@ HTML, CSS, PHP, JavaScript, MySQL, Xampp
 
 2. Baixe, instale e configure o XAMPP e o MySQL Workbench.<br>
 
-3. Coloque o diretório glowtf na pasta htdocs do XAMPP:<br>
+3. Coloque o diretório glowtf na pasta htdocs do XAMPP.<br>
 
 4. Rode o banco de dados:<br>
-- Abra o phpMyAdmin acessando http://localhost/phpmyadmin. Ou faça pelo MySQL Workbench.
-- Importe os arquivos SQL localizado na pasta database do projeto.
-- Execute o script database.sql
-- Execute o script populate.sql
+  - Abra o phpMyAdmin acessando http://localhost/phpmyadmin. Ou faça pelo MySQL Workbench.
+  - Importe os arquivos SQL localizado na pasta database do projeto.
+  - Execute o script database.sql
+  - Execute o script populate.sql
 
 5. Altere as portas no projeto conforme as suas configurações. <br>
 
