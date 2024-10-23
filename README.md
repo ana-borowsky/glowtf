@@ -33,12 +33,12 @@ HTML, CSS, PHP, JavaScript, MySQL, Xampp
 1. Clone o repositório:<br>
 ```git clone git@github.com:ana-borowsky/glowtf.git```<br>
 
-2. Baixe, instale e configure o XAMPP e o MySQL.<br>
+2. Baixe, instale e configure o XAMPP e o MySQL Workbench.<br>
 
 3. Coloque o diretório glowtf na pasta htdocs do XAMPP:<br>
 
 4. Rode o banco de dados:<br>
-- Abra o phpMyAdmin acessando http://localhost/phpmyadmin. Ou faça pelo MySQL.
+- Abra o phpMyAdmin acessando http://localhost/phpmyadmin. Ou faça pelo MySQL Workbench.
 - Importe os arquivos SQL localizado na pasta database do projeto.
 - Execute o script database.sql
 - Execute o script populate.sql
