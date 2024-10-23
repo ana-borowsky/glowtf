@@ -28,3 +28,27 @@ Não é uma maneira com a qual os sites sejam construídos hoje em dia, por dive
 
 ## Ferramentas
 HTML, CSS, PHP, JavaScript, MySQL, Xampp
+
+## Como rodar
+1. Clone o repositório:<br>
+```git clone git@github.com:ana-borowsky/glowtf.git```<br>
+
+2. Baixe, instale e configure o XAMPP e o MySQL.<br>
+
+3. Coloque o diretório glowtf na pasta htdocs do XAMPP:<br>
+
+4. Rode o banco de dados:<br>
+- Abra o phpMyAdmin acessando http://localhost/phpmyadmin. Ou faça pelo MySQL.
+- Importe os arquivos SQL localizado na pasta database do projeto.
+- Execute o script database.sql
+- Execute o script populate.sql
+
+5. Altere as portas no projeto conforme as suas configurações. <br>
+
+6. Abra o navegador e acesse a url:<br>
+
+```http://localhost/glowtf/home/home.html```<br>
+
+
+
+
